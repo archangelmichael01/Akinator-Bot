@@ -25,8 +25,7 @@ from database import (
     updateTotalQuestions, 
     updateWrongGuess)
 
-from strings import AKI_FIRST_QUESTION, AKI_LANG_CODE, AKI_LANG_MSG, CHILDMODE_MSG, ME_MSG, START_MSG
-import akinator
+from strings import AKI_FIRST_QUESTION, AKI_LANG_CODE, AKI_LANG_MSG, CHILDMODE_MSG, ME_MSG,import akinator
 
 
 def aki_start(update: Update, context: CallbackContext) -> None:
