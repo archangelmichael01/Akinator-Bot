@@ -1,5 +1,5 @@
 
-START_MSG = """
+STARRT_MSG = """
 Hello <b>{}</b> ! I'm <b>Michael</b>.
 We can play a guessing game.
 Do <code>/play</code>
